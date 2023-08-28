@@ -1,0 +1,6 @@
+ADD Apple 200 1.20
+SELL Apple 50 1.50
+RETURN Apple 5 1.50
+DONATE Apple 5
+CHECK
+PROFIT
